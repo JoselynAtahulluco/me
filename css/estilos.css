@@ -200,7 +200,13 @@ header .contenedor-texto .texto .profesion {
 	background-color: #3b5998;
 	color: white;
   }
-
+/*Habilidades*/
+figure{
+	text-align: center;
+}
+figure img{
+	width:80%;
+}
 /* ----- ----- FOOTER ----- ----- */
 footer .contacto {
 	background: #44617e;
