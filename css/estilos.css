@@ -250,8 +250,7 @@ footer .redes-sociales a {
 footer .redes-sociales .linkedin:hover {	background: #1da1f2; }
 footer .redes-sociales .facebook:hover { background: #3b5998; }
 footer .redes-sociales .github:hover { background: #666666; }
-/*footer .redes-sociales .instagram:hover { background: #bd236b; }*/
-
+footer .redes-sociales .instagram:hover { background: #bd236b; }
 /* ----- ----- MEDIA QUERIES ----- ----- */
 @media screen and (max-width: 800px) {
 	header .menu {
